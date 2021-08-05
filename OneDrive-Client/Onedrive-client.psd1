@@ -12,7 +12,7 @@
     RootModule        = 'Onedrive-Client.psm1'
 
     # Version number of this module.
-    ModuleVersion     = '0.2.0'
+    ModuleVersion     = '0.2.2'
 
     # Supported PSEditions
     # CompatiblePSEditions = @()
@@ -101,7 +101,7 @@
             # LicenseUri = ''
 
             # A URL to the main website for this project.
-            # ProjectUri = ''
+            ProjectUri   = 'https://github.com/PsychoData/Onedrive-Client'
 
             # A URL to an icon representing this module.
             # IconUri = ''
