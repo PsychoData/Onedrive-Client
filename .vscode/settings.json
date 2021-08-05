@@ -1,0 +1,32 @@
+{
+    "[json]": {
+        "editor.tabSize": 2
+    },
+    "[yaml]": {
+        "editor.tabSize": 2
+    },
+    "[markdown]": {
+        "editor.tabSize": 2,
+        // "cSpell.ignoreRegExpList": [
+        //     "{{.*?}}"
+        // ],
+    },
+    "editor.insertSpaces": true,
+    "editor.detectIndentation": false,
+    "editor.formatOnSave": true,
+    "cSpell.ignoreRegExpList": [],
+    "cSpell.words": [
+        "Antlr",
+        "Cmdlet",
+        "Dependabot",
+        "codeql",
+        "nuget",
+        "nupkg",
+        "psscriptanalyzer",
+        "pwsh",
+        "sarif",
+        "tylerleonhardt"
+    ],
+    "cSpell.allowCompoundWords": true,
+    "html.validate.styles": true
+}

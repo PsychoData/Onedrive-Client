@@ -1,0 +1,36 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Build Module",
+            "type": "PowerShell",
+            "request": "launch",
+            "script": "${workspaceFolder}/Invoke-Build.ps1",
+            "cwd": "${workspaceFolder}",
+            "presentation": {
+                "hidden": false,
+                "group": "Build",
+                "order": 1
+            },
+            "createTemporaryIntegratedConsole": true,
+        },
+        {
+            "name": "Pester Test Module",
+            "type": "PowerShell",
+            "request": "launch",
+            "script": "",
+            "cwd": "${workspaceFolder}",
+            "createTemporaryIntegratedConsole": true,
+        },
+        {
+            "name": "PowerShell: Launch Current File",
+            "type": "PowerShell",
+            "request": "launch",
+            "script": "${file}",
+            "cwd": "${file}"
+        }
+    ]
+}

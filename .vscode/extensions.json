@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "redhat.vscode-yaml",
+        "streetsidesoftware.code-spell-checker",
+        "ms-vscode.powershell-preview",
+        "tylerleonhardt.vscode-pester-test-adapter"
+    ]
+}
