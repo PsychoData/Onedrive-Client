@@ -6,6 +6,6 @@
         "tylerleonhardt.vscode-pester-test-adapter"
     ],
     "unwantedRecommendations": [
-        "ms-vscode.powershell-preview"
+        "ms-vscode.powershell"
     ]
 }
