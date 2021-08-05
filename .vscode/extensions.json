@@ -4,5 +4,8 @@
         "streetsidesoftware.code-spell-checker",
         "ms-vscode.powershell-preview",
         "tylerleonhardt.vscode-pester-test-adapter"
+    ],
+    "unwantedRecommendations": [
+        "ms-vscode.powershell-preview"
     ]
 }
